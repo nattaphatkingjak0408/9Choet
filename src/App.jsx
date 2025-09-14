@@ -13,7 +13,7 @@ import Pron5 from "./conpor/pron5";
 import Pron6 from "./conpor/pron6";
 import Pron7 from "./conpor/pron7";
 import Pron8 from "./conpor/pron8";
-import Porkira from "./conpor/porkira";
+import Porkira from "./conpor/Porkira";
 import "./App.css";
 
 function App() {
